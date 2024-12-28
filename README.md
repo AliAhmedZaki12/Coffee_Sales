@@ -1,5 +1,5 @@
 # Coffee-Sales 
-
+---
 ## Purpose
 The purpose of this project is to analyze coffee sales data to gain insights into customer behavior, product performance, and sales trends. This dashboard was built in Excel to provide a clear, interactive visualization of sales data, enabling stakeholders to make informed business decisions.
 
